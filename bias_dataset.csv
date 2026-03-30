@@ -1,0 +1,73 @@
+text,label
+I always fail in exams,overgeneralization
+I always fail,overgeneralization
+I will never succeed,overgeneralization
+Nothing ever works for me,overgeneralization
+I always mess things up,overgeneralization
+Everything goes wrong for me,overgeneralization
+I never do anything right,overgeneralization
+My life is always bad,overgeneralization
+I always lose,overgeneralization
+Nothing good ever happens,overgeneralization
+I will always be like this,overgeneralization
+I will never succeed,overgeneralization
+This is the worst thing ever,catastrophizing
+My life is ruined,catastrophizing
+This is the worst thing ever,catastrophizing
+My life is ruined,catastrophizing
+Everything is going to be terrible,catastrophizing
+This is a disaster,catastrophizing
+Nothing can get worse than this,catastrophizing
+This will destroy everything,catastrophizing
+I cannot handle this at all,catastrophizing
+This is completely awful,catastrophizing
+Things will only get worse,catastrophizing
+This is unbearable,catastrophizing
+It is all my fault,personalization
+It is all my fault,personalization
+Everything bad happens because of me,personalization
+I caused this problem,personalization
+This is my mistake,personalization
+I am responsible for everything,personalization
+If I was better this wouldn't happen,personalization
+I ruined everything,personalization
+It’s my fault they are upset,personalization
+I always mess things up for others,personalization
+I am the reason for this failure,personalization
+I feel useless so I am useless,emotional_reasoning
+I feel useless so I am useless,emotional_reasoning
+I feel like a failure so I am one,emotional_reasoning
+I feel bad so things must be bad,emotional_reasoning
+I feel scared so something bad will happen,emotional_reasoning
+I feel stupid so I am stupid,emotional_reasoning
+My feelings prove I am wrong,emotional_reasoning
+I feel hopeless so there is no hope,emotional_reasoning
+I feel like I can't do it so I can't,emotional_reasoning
+I feel anxious so things are bad,emotional_reasoning
+I feel worthless so I am worthless,emotional_reasoning
+I know everything already,overconfidence
+I know everything already,overconfidence
+I don’t need to study,overconfidence
+I can do this easily without effort,overconfidence
+I am the best,overconfidence
+No one is better than me,overconfidence
+I will definitely succeed without trying,overconfidence
+I don’t need practice,overconfidence
+I am always right,overconfidence
+I can’t make mistakes,overconfidence
+This is too easy for me,overconfidence
+I may pass,no_bias
+I think I can improve,no_bias
+I will try my best,no_bias
+I feel okay about this,no_bias
+This situation is manageable,no_bias
+I will work harder,no_bias
+Things might improve,no_bias
+I can learn from this,no_bias
+I will keep trying,no_bias
+This is a normal situation,no_bias
+
+
+
+
+
