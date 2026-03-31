@@ -1,74 +1,53 @@
-# 🧠 RationalMind AI  
-### Cognitive Bias Detector & Intelligent Decision Advisor
+# Fundamentals of AI and ML Evaluated Course Project
 
----
+## Project Overview
+This project aims to provide a comprehensive evaluation of various AI and ML techniques and their applications. The project is designed for students to understand the nuances of implementing machine learning models and evaluating their performance in real-world scenarios.
 
-## 📌 Overview
+## Features
+- Implementation of different machine learning algorithms (e.g., Linear Regression, Decision Trees, Neural Networks)
+- Evaluation metrics to analyze the performance of models
+- Easy to follow installation and usage guidelines
+- Examples demonstrating the use of the implemented algorithms
 
-RationalMind AI is an intelligent system that analyzes human thoughts and detects cognitive biases. It combines machine learning, natural language processing, and rule-based reasoning to provide meaningful insights and rational advice.
+## Installation Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/prapathaknavnirman-talentx/Fundamentals-of-AI-and-ML-Evaluated-Course-Project.git
+   ```
+2. Navigate into the project directory:
+   ```bash
+   cd Fundamentals-of-AI-and-ML-Evaluated-Course-Project
+   ```
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-The goal of this project is to help users recognize distorted thinking patterns and improve decision-making.
-
----
-
-## 🎯 Problem Statement
-
-Human thinking is often influenced by cognitive biases such as overgeneralization, catastrophizing, and emotional reasoning. These biases can lead to poor decisions.
-
-This project aims to:
-- Detect such biases in user input
-- Provide logical explanations
-- Suggest better ways of thinking
-
----
-
-## ⚙️ Technologies Used
-
-- Python  
-- Streamlit (for UI)  
-- Scikit-learn (Machine Learning)  
-- NLTK (Text preprocessing)  
-- TextBlob (Sentiment analysis)  
-
----
-
-## 🧠 Key Concepts Applied
-
-- Natural Language Processing (TF-IDF Vectorization)  
-- Machine Learning (Naive Bayes Classifier)  
-- Rule-Based Systems  
-- Sentiment Analysis  
-- Confidence-Based Prediction  
-- Multi-Sentence Analysis  
-
----
-
-## 🚀 Features
-
-- Detects multiple cognitive biases:
-  - Overgeneralization  
-  - Catastrophizing  
-  - Personalization  
-  - Emotional Reasoning  
-  - Overconfidence  
-
-- Handles:
-  - Neutral thinking (no_bias)  
-  - Uncertainty  
-  - Multi-sentence inputs  
-  - Context-based reasoning (e.g., "but", "however")  
-  - Basic sarcasm detection  
-
-- Provides:
-  - Detected bias  
-  - Reason for prediction  
-  - Intelligent advice  
-
----
-
-## 🖥️ How to Run the Project
-
-### 1️⃣ Install Dependencies
-
+## Usage Guide
+To run the project, ensure that you have Python installed and all dependencies are met. Use the following command to execute the main script:
 ```bash
-pip install streamlit pandas scikit-learn nltk textblob
+python main.py
+```
+
+## Project Structure
+```
+Fundamentals-of-AI-and-ML-Evaluated-Course-Project/
+├── data/
+│   └── datasets used for training and testing
+├── models/
+│   └── implementation of machine learning models
+├── evaluations/
+│   └── scripts for evaluating model performances
+├── examples/
+│   └── example scripts demonstrating model usage
+├── requirements.txt
+└── main.py
+```
+
+## Technical Implementation
+The project implements several machine learning algorithms and evaluates their performance based on different metrics such as accuracy, precision, recall, and F1 score. The implementation details can be found in the `models/` directory.
+
+## Examples
+The `examples/` directory contains scripts that showcase how to use the implemented models. For instance, the `example_usage.py` script demonstrates how to train and evaluate a model on a sample dataset.
+
+Feel free to explore the repository and contribute to the project!
